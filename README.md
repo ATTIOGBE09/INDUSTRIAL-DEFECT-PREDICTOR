@@ -1,4 +1,4 @@
-# 🔧 INDUSTRIAL-DEFECT-PREDICTOR
+#  INDUSTRIAL-DEFECT-PREDICTOR
 
 Application interactive pour l’analyse et la prédiction des défauts de production dans un environnement industriel.
 
