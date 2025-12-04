@@ -27,7 +27,7 @@ Le projet a été réalisé en plusieurs étapes :
    - Transformation des données pour l'entraînement
 
 3. **Modélisation (Random Forest)**  
-   - Séparation train/test (80/20)  
+   - Séparation train/test (75/25)  
    - Validation croisée (5-fold)  
    - Évaluation via matrice de confusion et AUC
 
